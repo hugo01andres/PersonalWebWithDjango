@@ -1,0 +1,5 @@
+django
+django-ckedit
+Pillow
+pylint
+pylint-django
